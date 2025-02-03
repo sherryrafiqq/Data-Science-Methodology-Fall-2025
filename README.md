@@ -37,8 +37,8 @@ Want to explore the data yourself? Follow these steps:
 
 1. *Clone this repository* 🖥
    bash
-   git clone https://github.com/your-username/airbnb-nyc-analysis.git
-   cd airbnb-nyc-analysis
+   git clone https://github.com/sherryrafiqq/Data-Science-Methodology-Fall-2025
+   cd Data-Science-Methodology-Fall-2025
    
 2. *Install dependencies* 📦
    bash
@@ -63,11 +63,6 @@ Want to explore the data yourself? Follow these steps:
 
 ## 🤝 Contributing
 Found a cool insight we missed? Have a suggestion? We’d love to hear it! Feel free to fork the repo, submit a PR, or open an issue. 
-
----
-
-## 📜 License
-This project is licensed under the MIT License. Feel free to use and modify it!
 
 ---
 
